@@ -6,7 +6,7 @@ The program allows you to:
 • Interact with the collection through a menu‑driven console interface
 This project is ideal for beginners learning how classes interact and how arrays can be used to manage collections of objects.
 
-📂 Class Breakdown
+Class Breakdown:
 1. `CD.java`
 Represents a single CD with:
 • Title
